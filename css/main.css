@@ -66,7 +66,7 @@ font-size: 14px; color: #000;text-align: center; line-height: 40px; transition: 
 
 /* container */
 /* content1 */
-.content1>ul{display: flex; flex-wrap: wrap; justify-content: center; width: 100%; margin: 40px auto; border: 1ps solid red;}
+.content1>ul{display: flex; flex-wrap: wrap; justify-content: center; width: 100%; margin: 40px auto;}
 .content1>ul>li{position: relative; width: 50%; text-align: center;}
 .content1>ul>li::after{content: ""; position: absolute; right: 0; top: 15px; width: 1px; height: 151px; background-color: #ddd;}
 .content1>ul>li:last-child:after{display: none;}
@@ -379,7 +379,7 @@ background: #ee6900; color: #fff; font-size: 12px; text-align: center; line-heig
  
  /* container */
  /* content1 */
- .content1>ul{display: flex; justify-content: center; width: 96%; min-width: 986px; margin: 40px auto; border: 1ps solid red;}
+ .content1>ul{display: flex; justify-content: center; width: 96%; min-width: 986px; margin: 40px auto;}
  .content1>ul>li{position: relative; flex: 1; text-align: center;}
  .content1>ul>li::after{content: ""; position: absolute; right: 0; top: 15px; width: 1px; height: 151px; background-color: #ddd;}
  .content1>ul>li:last-child:after{display: none;}
@@ -628,8 +628,7 @@ background: #ee6900; color: #fff; font-size: 12px; text-align: center; line-heig
  .content3_inner>div>ul>li>span>strong{font-weight: bold;}
  
  li.event::before{content: "event"; position: absolute; top: 8px; right: 8px; width: 38px; height: 16px; border-radius: 3px;
- background: #ee6900; color: #fff; font-size: 12px; text-align: center; line-height: 16px; font-family: arial; letter-spacing: 0;} */
-
+ background: #ee6900; color: #fff; font-size: 12px; text-align: center; line-height: 16px; font-family: arial; letter-spacing: 0;} 
 }
 
 
@@ -684,7 +683,7 @@ text-indent: -9999px; overflow: hidden;}
 
 /* container */
 /* content1 */
-.content1>ul{display: flex; justify-content: center; width: 1060px; margin: 40px auto; border: 1ps solid red;}
+.content1>ul{display: flex; justify-content: center; width: 1060px; margin: 40px auto; }
 .content1>ul>li{position: relative; flex: 1; text-align: center;}
 .content1>ul>li::after{content: ""; position: absolute; right: 0; top: 15px; width: 1px; height: 151px; background-color: #ddd;}
 .content1>ul>li:last-child:after{display: none;}
