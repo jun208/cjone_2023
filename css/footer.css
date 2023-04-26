@@ -106,10 +106,10 @@ padding: 7px 14px; color: #a3a3a3; font-size: 12px;}
 .footer_inner>dl>dd.family_site>ul a{color: #777;}
 .footer_inner>dl>dd.family_site>ul>li>ul{text-indent: 10px;}
 
-.footer_inner>address{font-size: 12px; line-height: 24px;}
+.footer_inner>address{font-size: 12px; line-height: 24px; color: #999;}
 .footer_inner>address>span{padding: 0 7px;}
 
-.footer_inner>address>p.copy{font-size: 12px; padding-top: 5px; letter-spacing: 0;}
+.footer_inner p.copy{font-size: 12px; padding-top: 5px; letter-spacing: 0; color: #999;}
 
 /* top */
 

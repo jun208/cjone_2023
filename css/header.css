@@ -99,7 +99,7 @@ form.srch{height: 0; overflow: hidden; background: #fff; line-height: 135px;
 transition: height 400ms linear 0s;}
 form.srch.on{height: 135px;}
 
-form.srch fieldset{width: 668px; margin: 0 auto; border: 1px solid red;}
+form.srch fieldset{width: 668px; margin: 0 auto;}
 form.srch fieldset input{width: 548px; height: 60px; padding: 0 15px; border: 2px solid #222; font-size: 18px;}
 form.srch input::placeholder{color: #e60;}
 form.srch fieldset button{width: 120px; height: 60px; border: none; background: #333;
@@ -181,7 +181,7 @@ form.srch fieldset button:hover{background: #000; cursor: pointer;}
  transition: height 400ms linear 0s;}
  form.srch.on{height: 135px;}
  
- form.srch fieldset{width: 668px; margin: 0 auto; border: 1px solid red;}
+ form.srch fieldset{width: 668px; margin: 0 auto; }
  form.srch fieldset input{width: 548px; height: 60px; padding: 0 15px; border: 2px solid #222; font-size: 18px;}
  form.srch input::placeholder{color: #e60;}
  form.srch fieldset button{width: 120px; height: 60px; border: none; background: #333;
@@ -262,7 +262,7 @@ form.srch{height: 0; overflow: hidden; background: #fff; line-height: 135px;
 transition: height 400ms linear 0s;}
 form.srch.on{height: 135px;}
 
-form.srch fieldset{width: 668px; margin: 0 auto; border: 1px solid red;}
+form.srch fieldset{width: 668px; margin: 0 auto; }
 form.srch fieldset input{width: 548px; height: 60px; padding: 0 15px; border: 2px solid #222; font-size: 18px;}
 form.srch input::placeholder{color: #e60;}
 form.srch fieldset button{width: 120px; height: 60px; border: none; background: #333;
