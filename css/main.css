@@ -275,7 +275,7 @@ background: url(../images/ico_out_link04.png) no-repeat 100% 50%;}
 
 
 span.age{display: inline-block; content: ""; font-size: 10px; color:  #1075ca; line-height: 15px;  width: 15px; height: 15px; border-radius: 50%; border: 1px solid #006cc7; margin-right: 5px;}
-span.star{display: inline-block; position: relative;   background: url(../images/ico_movie.png) no-repeat 0 0; width: 108px; height:18px; background-position-y:-53px; }
+div.star{display: inline-block; position: relative;   background: url(../images/ico_movie.png) no-repeat 0 0; width: 108px; height:18px; background-position-y:-53px; }
 
 
 
@@ -580,7 +580,7 @@ background: #ee6900; color: #fff; font-size: 12px; text-align: center; line-heig
  .content2_inner>article:nth-of-type(8) p.star_rate{display:inline-block; background: url(../images/ico_movie.png) no-repeat 0 0; width: 100%; height:18px; background-position-y:-35px;  }
  
  span.age{display: inline-block; content: ""; font-size: 10px; color:  #1075ca; line-height: 15px;  width: 15px; height: 15px; border-radius: 50%; border: 1px solid #006cc7; margin-right: 5px;}
- span.star{display: inline-block; position: relative;   background: url(../images/ico_movie.png) no-repeat 0 0; width: 108px; height:18px; background-position-y:-53px; }
+ div.star{display: inline-block; position: relative;   background: url(../images/ico_movie.png) no-repeat 0 0; width: 108px; height:18px; background-position-y:-53px; }
  
  /* circle_wrap */
  .circle_wrap>span{position: absolute;}
@@ -884,7 +884,7 @@ background: url(../images/ico_out_link04.png) no-repeat 100% 50%;}
 .content2_inner>article:nth-of-type(8) p.star_rate{display:inline-block; background: url(../images/ico_movie.png) no-repeat 0 0; width: 100%; height:18px; background-position-y:-35px;}
 
 span.age{display: inline-block; content: ""; font-size: 10px; color:  #1075ca; line-height: 15px;  width: 15px; height: 15px; border-radius: 50%; border: 1px solid #006cc7; margin-right: 5px;}
-span.star{display: inline-block; position: relative;   background: url(../images/ico_movie.png) no-repeat 0 0; width: 108px; height:18px; background-position-y:-53px; }
+div.star{display: inline-block; position: relative;   background: url(../images/ico_movie.png) no-repeat 0 0; width: 108px; height:18px; background-position-y:-53px; }
 
 
 
